@@ -29,7 +29,7 @@ de ports and adapters. O mesmo foi estruturado da seguinte forma:
 - A Port corresponde a classe PortChatGatewayInterface do projeto
 - Os Adapters correspondem as classes AdapterGeminiChatGateway e AdapterGptChatGateway
 
-![2024-07-29_01-58](https://github.com/user-attachments/assets/fe206168-b1c5-4d3b-96b8-78632871d019)
+![2024-07-29_02-02](https://github.com/user-attachments/assets/a33e3453-65b7-4607-ac62-542ab90088fe)
 
 
 ## Instalação dos pacotes
