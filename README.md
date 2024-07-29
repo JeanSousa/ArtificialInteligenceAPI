@@ -26,8 +26,10 @@
 
 Este projeto tem como fim didático a compreensão da arquitetura hexagonal e seus beneficios nos conceitos
 de ports and adapters. O mesmo foi estruturado da seguinte forma:
+- A Port corresponde a classe PortChatGatewayInterface do projeto
+- Os Adapters correspondem as classes AdapterGeminiChatGateway e AdapterGptChatGateway
 
-
+![2024-07-29_01-58](https://github.com/user-attachments/assets/fe206168-b1c5-4d3b-96b8-78632871d019)
 
 
 ## Instalação dos pacotes
