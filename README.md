@@ -52,6 +52,8 @@ $ npm run start:prod
 ```
 
 ## Rodando as APIS externas fake 
+Foi utilizado o pacote [json-server](https://github.com/nestjs/nest) para simular endpoints das apis
+
 
 ### Chat Gpt 
 ```bash
