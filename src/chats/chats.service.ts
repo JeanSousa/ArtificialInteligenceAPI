@@ -6,7 +6,7 @@ import { Chat } from './entities/chat.entity';
 @Injectable()
 export class ChatsService {
     // No nestjs não podemos injetar interfaces typescript/js diretamente
-    // inject do nest para injetar a implementação que usa o token ChatGatewayInterface
+    // inject do nest para injetar uma interface da implementação que usa o token ChatGatewayInterface
     // estou utilizando a implementação embora tipo a interface
     constructor(
         @Inject('ChatGatewayInterface')
